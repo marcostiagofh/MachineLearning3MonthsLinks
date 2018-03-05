@@ -1,9 +1,8 @@
 # Learn_Machine_Learning_in_3_Months
 
 # Everyday Links
-
 Follow ML people on twitter
-https://twitter.com/
+https://twitter.com/ 
 Read about ML projects, ideas and discussions on reddit
 https://www.reddit.com/r/MachineLearning/
 Join facebook group to learn along with others
