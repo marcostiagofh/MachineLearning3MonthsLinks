@@ -4,7 +4,8 @@
 https://twitter.com/DL_ML_Loop/lists/deep-learning-loop/members<br>
 Read about ML projects, ideas and discussions on reddit<br>
 https://www.reddit.com/r/MachineLearning/<br>
-Join facebook group to learn along with others<br>
+Join slack and facebook groups to learn along with others<br>
+http://wizards.herokuapp.com/<br>
 https://www.facebook.com/groups/1991572177524785/<br>
 TwoMinutePapers Recommended Learning<br>
 https://www.youtube.com/watch?v=4h0uC9FPVMQ</p>
