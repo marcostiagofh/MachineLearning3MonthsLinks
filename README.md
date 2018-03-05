@@ -1,7 +1,7 @@
 <h1>Learn_Machine_Learning_in_3_Months</h1>
 <h1>Everyday Links</h1>
-<p>Follow ML people on twitter<br>
-https://twitter.com/<br>
+<p>Follow ML people on this twitter list<br>
+https://twitter.com/DL_ML_Loop/lists/deep-learning-loop/members<br>
 Read about ML projects, ideas and discussions on reddit<br>
 https://www.reddit.com/r/MachineLearning/<br>
 Join facebook group to learn along with others<br>
