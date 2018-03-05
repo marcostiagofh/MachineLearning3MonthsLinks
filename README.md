@@ -18,7 +18,7 @@ http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf</p>
 http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf</p>
 <h2>Week 3 Probability</h2>
 <p>https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2<br>
-https://br.udacity.com/course/intro-to-inferential-statistics--ud201</p>
+https://www.udacity.com/course/intro-to-inferential-statistics--ud201</p>
 <h2>Week 4 Algorithms</h2>
 <p>https://www.coursera.org/courses?languages=en&amp;query=Algorithm%20design%20and%20analysis</p>
 <h1>Month 2</h1>
