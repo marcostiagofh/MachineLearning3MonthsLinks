@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=4h0uC9FPVMQ</p>
 <h2>Week 1 Linear Algebra</h2>
 <p>https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8<br>
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab<br>
+https://www.khanacademy.org/math/linear-algebra<br>
 http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf</p>
 <h2>Week 2 Calculus</h2>
 <p>https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr<br>
