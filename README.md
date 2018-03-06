@@ -26,7 +26,8 @@ https://www.udacity.com/course/intro-to-inferential-statistics--ud201</p>
 <h1>Month 2</h1>
 <h2>Week 1</h2>
 <h4>Learn python for data science</h4>
-<p>https://www.youtube.com/watch?v=T5pRlIbr6gg&amp;list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU</p>
+<p>https://www.youtube.com/watch?v=T5pRlIbr6gg&amp;list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU<br>
+https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11</p>
 <h4>Math of Intelligence</h4>
 <p>https://www.youtube.com/watch?v=xRJCOz3AfYY&amp;list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D</p>
 <h4>Intro to Tensorflow</h4>
