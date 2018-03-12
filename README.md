@@ -31,6 +31,7 @@ Differential equations https://www.khanacademy.org/math/differential-equations</
 <h2>Week 3 Probability</h2>
 <p>https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2<br>
 https://www.udacity.com/course/intro-to-inferential-statistics--ud201<br>
+https://www.udacity.com/course/intro-to-descriptive-statistics--ud827<br>
 https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w/playlists</p>
 <h2>Week 4 Algorithms</h2>
 <p>https://www.coursera.org/courses?languages=en&amp;query=Algorithm%20design%20and%20analysis</p>
@@ -44,10 +45,10 @@ http://ricardoduarte.github.io/python-for-developers/</p>
 <h4>Intro to Tensorflow</h4>
 <p>https://www.youtube.com/watch?v=2FmcHiLCwTU&amp;list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV</p>
 <h2>Week 2</h2>
-<p>Intro to ML (Udacity)<br>
+<p>Intro to ML<br>
 <p>https://www.coursera.org/learn/machine-learning<br>
 https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11<br>
-https://eu.udacity.com/course/intro-to-machine-learning--ud120</p>
+https://www.udacity.com/course/intro-to-machine-learning--ud120</p>
 <h2>Week 3-4</h2>
 <p>ML Project Ideas<br>
 https://github.com/NirantK/awesome-project-ideas</p>
