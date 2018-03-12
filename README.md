@@ -1,6 +1,6 @@
 *Since i'm providing multiple links for each week, you may choose the best learning source, the one that best suits you among them.
 
-<h1>Learn_Machine_Learning_in_3_Months</h1>
+<h1>Learn Machine Learning in 3 Months</h1>
 <h1>Everyday Links</h1>
 <p>Follow ML people on this twitter list<br>
 https://twitter.com/DL_ML_Loop/lists/deep-learning-loop/members<br>
