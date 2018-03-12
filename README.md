@@ -11,7 +11,9 @@ https://mench.co/LearnMachineLearningIn3Months<br>
 http://wizards.herokuapp.com/<br>
 https://www.facebook.com/groups/1991572177524785/<br>
 TwoMinutePapers Recommended Learning<br>
-https://www.youtube.com/watch?v=4h0uC9FPVMQ</p>
+https://www.youtube.com/watch?v=4h0uC9FPVMQ<br>
+Stanford Machine Learning summarized notes<br>
+http://www.holehouse.org/mlclass/</p>
 <h1>Month 1</h1>
 <h2>Week 1 Linear Algebra</h2>
 <p>https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8<br>
