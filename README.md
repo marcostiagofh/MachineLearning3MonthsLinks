@@ -21,7 +21,7 @@ http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf</p>
 <h2>Week 2 Calculus</h2>
 <p>https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr<br>
 http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf<br>
-Khan series-----------------------------------------------------<br>
+----------------------------Khan series-------------------------------------<br>
 Differential calculus https://www.khanacademy.org/math/differential-calculus<br>
 Integral calculus https://www.khanacademy.org/math/integral-calculus<br>
 Multivariable calculus https://www.khanacademy.org/math/multivariable-calculus<br>
