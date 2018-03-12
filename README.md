@@ -65,4 +65,8 @@ http://course.fast.ai/</p>
 <p>Re-implement DL projects from Siraj's github<br>
 https://github.com/llSourcell?tab=repositories</p>
 
-Free books http://houseofbots.com/news-detail/2263-4-top-11-free-books-on-machine-learning-and-data-science-that'll-give-you-a-major-edge-over-your-competitors
+
+
+
+<p>Free books<br> 
+http://houseofbots.com/news-detail/2263-4-top-11-free-books-on-machine-learning-and-data-science-that'll-give-you-a-major-edge-over-your-competitors
