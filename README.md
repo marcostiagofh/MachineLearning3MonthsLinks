@@ -70,4 +70,8 @@ https://www.youtube.com/watch?v=4h0uC9FPVMQ<br>
 Stanford Machine Learning summarized notes<br>
 http://www.holehouse.org/mlclass/<br>
 Free books<br> 
-http://houseofbots.com/news-detail/2263-4-top-11-free-books-on-machine-learning-and-data-science-that'll-give-you-a-major-edge-over-your-competitors</p>
+http://houseofbots.com/news-detail/2263-4-top-11-free-books-on-machine-learning-and-data-science-that'll-give-you-a-major-edge-over-your-competitors<br> 
+An Introduction to Statistical Learning with Applications in R<br> 
+http://www-bcf.usc.edu/~gareth/ISL/<br>
+The Elements of Statistical Learning<br>
+https://web.stanford.edu/~hastie/ElemStatLearn/</p>
