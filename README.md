@@ -66,8 +66,8 @@ https://github.com/llSourcell?tab=repositories</p>
 <p>Free books<br> 
 http://houseofbots.com/news-detail/2263-4-top-11-free-books-on-machine-learning-and-data-science-that'll-give-you-a-major-edge-over-your-competitors</p>
 
-<p>Other ML courses/plans<br>
-TwoMinutePapers Recommended Learning<br>
+<h1>Other resources</h1>
+<p>TwoMinutePapers Recommended Learning<br>
 https://www.youtube.com/watch?v=4h0uC9FPVMQ<br>
 Stanford Machine Learning summarized notes<br>
-http://www.holehouse.org/mlclass/
+http://www.holehouse.org/mlclass/</p>
