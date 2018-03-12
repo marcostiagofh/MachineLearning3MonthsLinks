@@ -9,11 +9,7 @@ https://www.reddit.com/r/MachineLearning/<br>
 Join mench, slack and facebook groups to learn along with others<br>
 https://mench.co/LearnMachineLearningIn3Months<br>
 http://wizards.herokuapp.com/<br>
-https://www.facebook.com/groups/1991572177524785/<br>
-TwoMinutePapers Recommended Learning<br>
-https://www.youtube.com/watch?v=4h0uC9FPVMQ<br>
-Stanford Machine Learning summarized notes<br>
-http://www.holehouse.org/mlclass/</p>
+https://www.facebook.com/groups/1991572177524785/</p>
 <h1>Month 1</h1>
 <h2>Week 1 Linear Algebra</h2>
 <p>https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8<br>
@@ -69,3 +65,9 @@ https://github.com/llSourcell?tab=repositories</p>
 <br>
 <p>Free books<br> 
 http://houseofbots.com/news-detail/2263-4-top-11-free-books-on-machine-learning-and-data-science-that'll-give-you-a-major-edge-over-your-competitors</p>
+
+<p>Other ML courses/plans<br>
+TwoMinutePapers Recommended Learning<br>
+https://www.youtube.com/watch?v=4h0uC9FPVMQ<br>
+Stanford Machine Learning summarized notes<br>
+http://www.holehouse.org/mlclass/
