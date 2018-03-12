@@ -34,7 +34,8 @@ https://www.udacity.com/course/intro-to-inferential-statistics--ud201<br>
 https://www.udacity.com/course/intro-to-descriptive-statistics--ud827<br>
 https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w/playlists</p>
 <h2>Week 4 Algorithms</h2>
-<p>https://www.coursera.org/courses?languages=en&amp;query=Algorithm%20design%20and%20analysis</p>
+<p>http://goalkicker.com/AlgorithmsBook/<br>
+https://www.coursera.org/courses?languages=en&amp;query=Algorithm%20design%20and%20analysis</p>
 <h1>Month 2</h1>
 <h2>Week 1</h2>
 <h4>Learn python for data science</h4>
