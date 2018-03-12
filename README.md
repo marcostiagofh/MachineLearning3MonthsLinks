@@ -28,7 +28,8 @@ Multivariable calculus https://www.khanacademy.org/math/multivariable-calculus<b
 Differential equations https://www.khanacademy.org/math/differential-equations</p>
 <h2>Week 3 Probability</h2>
 <p>https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2<br>
-https://www.udacity.com/course/intro-to-inferential-statistics--ud201</p>
+https://www.udacity.com/course/intro-to-inferential-statistics--ud201<br>
+https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w/playlists</p>
 <h2>Week 4 Algorithms</h2>
 <p>https://www.coursera.org/courses?languages=en&amp;query=Algorithm%20design%20and%20analysis</p>
 <h1>Month 2</h1>
