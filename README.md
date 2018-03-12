@@ -37,9 +37,7 @@ https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w/playlists</p>
 <h1>Month 2</h1>
 <h2>Week 1</h2>
 <h4>Learn python for data science</h4>
-<p>https://www.coursera.org/learn/machine-learning<br>
-https://www.youtube.com/watch?v=T5pRlIbr6gg&amp;list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU<br>
-https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11<br>
+<p>https://www.youtube.com/watch?v=T5pRlIbr6gg&amp;list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU<br>
 http://ricardoduarte.github.io/python-for-developers/</p>
 <h4>Math of Intelligence</h4>
 <p>https://www.youtube.com/watch?v=xRJCOz3AfYY&amp;list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D</p>
@@ -47,6 +45,8 @@ http://ricardoduarte.github.io/python-for-developers/</p>
 <p>https://www.youtube.com/watch?v=2FmcHiLCwTU&amp;list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV</p>
 <h2>Week 2</h2>
 <p>Intro to ML (Udacity)<br>
+<p>https://www.coursera.org/learn/machine-learning<br>
+https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11<br>
 https://eu.udacity.com/course/intro-to-machine-learning--ud120</p>
 <h2>Week 3-4</h2>
 <p>ML Project Ideas<br>
