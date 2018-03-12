@@ -55,6 +55,7 @@ https://github.com/NirantK/awesome-project-ideas</p>
 <h1>Month 3 (Deep Learning)</h1>
 <h2>Week 1</h2>
 <p>Intro to Deep Learning<br>
+https://pt.coursera.org/specializations/deep-learning<br>
 https://www.youtube.com/watch?v=vOppzHpvTiQ&amp;list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3</p>
 <h2>Week 2</h2>
 <p>Deep Learning by Fast.AI<br>
