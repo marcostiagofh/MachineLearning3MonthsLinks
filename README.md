@@ -64,9 +64,8 @@ http://course.fast.ai/</p>
 <h2>Week 3-4</h2>
 <p>Re-implement DL projects from Siraj's github<br>
 https://github.com/llSourcell?tab=repositories</p>
-
-
-
-
+<br>
+<br>
+<br>
 <p>Free books<br> 
-http://houseofbots.com/news-detail/2263-4-top-11-free-books-on-machine-learning-and-data-science-that'll-give-you-a-major-edge-over-your-competitors
+http://houseofbots.com/news-detail/2263-4-top-11-free-books-on-machine-learning-and-data-science-that'll-give-you-a-major-edge-over-your-competitors</p>
