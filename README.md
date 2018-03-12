@@ -20,7 +20,12 @@ https://www.khanacademy.org/math/linear-algebra<br>
 http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf</p>
 <h2>Week 2 Calculus</h2>
 <p>https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr<br>
-http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf</p>
+http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf<br>
+Khan series-----------------------------------------------------<br>
+Differential calculus https://www.khanacademy.org/math/differential-calculus<br>
+Integral calculus https://www.khanacademy.org/math/integral-calculus<br>
+Multivariable calculus https://www.khanacademy.org/math/multivariable-calculus<br>
+Differential equations https://www.khanacademy.org/math/differential-equations</p>
 <h2>Week 3 Probability</h2>
 <p>https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2<br>
 https://www.udacity.com/course/intro-to-inferential-statistics--ud201</p>
