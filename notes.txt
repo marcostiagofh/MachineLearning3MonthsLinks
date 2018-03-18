@@ -1,0 +1,12 @@
+Link for ML crash course
+https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
+
+
+https://machinelearningmastery.com/start-here/
+
+
+Linear Algebra
+https://machinelearningmastery.com/gentle-introduction-linear-algebra/
+
+linear-equations
+https://www.khanacademy.org/math/algebra/two-var-linear-equations#solutions-to-two-var-linear-equations
